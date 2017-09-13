@@ -1,0 +1,41 @@
+package conversion;
+
+public class Controller implements IController {
+
+	@Override
+	public void setSmsObject(ISms mySms) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void setPigLatinObject(IPigLatin myPigLatin) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void runProgram() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void convertTextToSMS() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void convertSMSToText() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void convertTextToPigLatin() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,46 @@
+package main;
+
+
+
+public class Node {
+	int depth;
+	Node parent;
+	Node leftchild;
+	Node rightchild;
+	String var;
+	
+	public Node(int depth){
+		this.depth = depth;
+		
+	}
+	
+	public void addNode(String vars ){
+		
+		this.var=vars;
+	}
+	public String getString(){
+		return this.var;
+	}
+	public void setRight(){
+		
+	}
+	public void setLeft(){
+		
+	}
+	public String getRight(){
+		return this.rightchild.getString();
+	}
+	public String getLeft(){
+		return this.leftchild.getString();
+	
+	}
+	
+
+}
+
+
+
+
+
+
+

@@ -1,0 +1,76 @@
+package assignment3;
+
+public class Periodical extends LibraryItem {
+	/**
+	 * need 
+	 * Book Title
+	 *  Author
+	 *  Genre  
+	 * Call Number
+	 * 
+	 * getters and setters for all these and maybe a constructor?
+	 * 
+	 * 
+	 * 
+	 */
+	
+	private String title;
+	private String volume;
+	private String issue;
+	private String subject;
+	private String callNumber;
+	
+	public Periodical(String t, String v,String i, String s, String c){
+		this.title=t;
+		this.volume=v;
+		this.issue=i;
+		this.subject=s;
+		this.callNumber=c;
+		
+	}
+	
+	
+	
+	
+	public String getTitle() {
+		
+		
+	}
+	public String getVolume() {
+		
+		
+	}
+	public String getIssue() {
+		
+		
+	}
+	public String getSubject() {
+	
+	
+	}
+	public String getCallNumber() {
+		
+		
+	}
+	public String setTitle() {
+		
+		
+	}
+	public String setVolume() {
+		
+		
+	}
+	public String setIssue() {
+		
+		
+	}
+	public String setSubject() {
+	
+	
+	}
+	public String setCallNumber() {
+		
+		
+	}
+
+}

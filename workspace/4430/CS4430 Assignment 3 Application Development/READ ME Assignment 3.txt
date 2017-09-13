@@ -1,0 +1,9 @@
+READ ME Assignment 3
+
+Author: Bishop, Jarrod
+Class:  CS 4430
+
+Step 1: Run on a Windows platform.
+Step 2: Run create_mail.sql if the lab2 database does not exist
+Step 3: Was unable to get the JDBC driver to work on my computer but if you do have it working click the RUM ME.bat
+Step 3b: if not run in eclipse

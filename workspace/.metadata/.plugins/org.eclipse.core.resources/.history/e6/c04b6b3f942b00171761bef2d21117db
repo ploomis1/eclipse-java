@@ -1,0 +1,89 @@
+package main;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		/*
+		 * read in file
+		 */
+		Scanner kbd= new Scanner(System.in);
+		//for(int i=0; i<10;i++){
+		System.out.println("Please enter your depth and input string");
+		String input =kbd.nextLine();
+		System.out.println(input);
+		ArrayList<Tree> list = new ArrayList<Tree>();;
+		
+		String[] array =new String[2];
+		array=input.split(", ");
+		System.out.println(array[0]+" free "+array[1]);
+		int depth =Integer.parseInt(array[0]);
+		int trees =(array[1].length()/depth);
+		String[] word=new String[array[1].length()];
+		word=array[1].split("");
+		Tree hey=new Tree(depth);
+		int numb=0;
+		//list.add(hey);
+		//ned to check if going in, if not next, if not any, new one
+		for(int k=0;k<word.length;k++){//number of trees?
+		for(int j=0; j<depth;j++){
+			if(hey.isFull(k)==false){
+				if(hey.getString(k, numb).compareToIgnoreCase(word[k])==1){
+					
+				}
+				
+					
+				
+					
+					
+					
+				}else{
+					
+					hey.addNode(k, );
+				}
+				
+			}
+			
+		}
+		
+			
+		}
+		
+		
+		
+		
+		//if(word[0]!=null){
+		//	hey.addNode(word[0]);
+		//}
+		
+		
+		for(int j=0; j<word.length;j++){	
+		Tree hey1=new Tree(depth);
+		list.add(hey1);
+		if(word[0]!=null){
+			for(int k=0;k<list.size();k++){
+				for(int f=0; f<=depth;f++){
+				if(list.get(k).getRoot().compareToIgnoreCase(word[k])==1){
+					System.out.println(list.get(k).getRoot().compareToIgnoreCase(word[k]));
+					//if (list.get(k).nodes.rightchild.getString().compareToIgnoreCase(word[k])==1)
+				}
+				}
+			}
+			hey.addNode(word[0]);
+		}
+		
+		 * split array into an int and then seperate each element into an array;
+		 */
+		//hey.addNode();
+		//}
+		kbd.close();
+		}
+		
+	}
+
+}

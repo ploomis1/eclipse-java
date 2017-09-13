@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="293" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="500" key="dialogHeight"/>
+		<item value="800" key="dialogWidth"/>
+		<list key="textEntries">
+			<item value="1"/>
+		</list>
+		<list key="orderedElements">
+			<item value="org.eclipse.debug.ui.ViewManagementPreferencePage"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.ui.preferences"/>
+		</list>
+		<list key="textArray">
+			<item value="vi"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="FileSystemExportWizard">
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.export.ZipFile" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.egit.ui.internal.clone.gitclonecategory"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item value="false" key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Users/parkerloomis/Desktop/assignment4CS.zip"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+	</section>
+	<section name="ZipFileExportWizard">
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID"/>
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/parkerloomis/Desktop/edu.wmich.cs.spring17.balancingAct.parkerLoomis.zip"/>
+			<item value="/Users/parkerloomis/Desktop/edu.wmich.cs.spring17.assignment5.parkerLoomis.zip"/>
+			<item value="/Users/parkerloomis/Desktop/edu.wmich.cs.spring17.assignment4.parkerLoomis.zip"/>
+			<item value="/Users/parkerloomis/Desktop/edu.wmich.cs.spring17.assignment3.parkerLoomis.zip"/>
+			<item value="/Users/parkerloomis/Desktop/edu.wmich.cs.spring17.assignment1.zip"/>
+			<item value="/Users/parkerloomis/Desktop/assignment6.zip"/>
+			<item value="/Users/parkerloomis/Desktop/assignment5.zip"/>
+			<item value="/Users/parkerloomis/Desktop/assignment2.zip"/>
+			<item value="/Users/parkerloomis/Desktop/bitches.zip"/>
+			<item value="/Users/parkerloomis/Desktop/3310assignment1.zip"/>
+			<item value="/Users/parkerloomis/Desktop/lab5.zip"/>
+			<item value="/Users/parkerloomis/Desktop/lab5home.zip"/>
+			<item value="/Users/parkerloomis/Desktop/lab4.zip"/>
+			<item value="/Users/parkerloomis/Desktop/homeportion.zip"/>
+			<item value="/Users/parkerloomis/Desktop/lab3.zip"/>
+			<item value="/Users/parkerloomis/Desktop/lab2.zip"/>
+			<item value="/Users/parkerloomis/Desktop/labexcercise5.zip"/>
+			<item value="/Users/parkerloomis/Desktop/labassignment1.zip"/>
+			<item value="/Users/parkerloomis/Desktop/labexcercise3.zip"/>
+		</list>
+	</section>
+</section>

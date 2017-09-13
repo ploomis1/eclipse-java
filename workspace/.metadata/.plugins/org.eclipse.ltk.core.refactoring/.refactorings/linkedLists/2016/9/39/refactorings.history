@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;linkedLists.linked.java&apos; to &apos;Linked.java&apos;&#x0A;- Original project: &apos;linkedLists&apos;&#x0A;- Original element: &apos;linkedLists.linked.java&apos;&#x0A;- Renamed element: &apos;linkedLists.Linked.java&apos;" description="Rename compilation unit &apos;linked.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;linkedLists{linked.java" name="Linked.java" references="false" stamp="1474671407679" version="1.0"/>
+</session>

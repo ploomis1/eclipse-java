@@ -1,0 +1,23 @@
+package main;
+
+public class Tree {
+	Tree hey;
+	Tree next;
+	Node nodes;
+	
+	public Tree(int depth){
+		this.nodes= new Node(depth);
+	}
+	
+	public void addTree(){
+		
+	}
+	public String getRoot(){
+		
+		this.tree
+	}
+	public int getHeight(){
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;HW6&apos;&#x0A;- Original project: &apos;HW6&apos;&#x0A;- Original element: &apos;HW6/src/brandonseager.cs.wmich.edu&apos;" description="Delete element" element1="/src&lt;brandonseager.cs.wmich.edu" element2="/src&lt;brandonseager.cs.wmich" element3="/src&lt;brandonseager.cs" element4="/src&lt;brandonseager" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1481415910177" subPackages="false" version="1.0"/>
+</session>

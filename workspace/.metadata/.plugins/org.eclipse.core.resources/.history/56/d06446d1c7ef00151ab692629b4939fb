@@ -1,0 +1,17 @@
+package conversion;
+
+public class PigLatin implements IPigLatin {
+
+	@Override
+	public void setInput(String myInput) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public String textToPigLatin() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

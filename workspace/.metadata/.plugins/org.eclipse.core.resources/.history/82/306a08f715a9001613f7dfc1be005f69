@@ -1,0 +1,9 @@
+package sorting;
+
+public class Selection {
+
+	public Selection() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

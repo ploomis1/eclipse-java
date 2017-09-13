@@ -1,0 +1,19 @@
+package main;
+
+public class Node {
+	int depth;
+	Node parent;
+	Node leftchild;
+	Node rightchild;
+	
+	public Node(int depth){
+		this.depth = depth;
+		
+	}
+	
+	public void addNode(){
+		
+	}
+	public void
+
+}

@@ -1,0 +1,24 @@
+INDEX VERSION 1.127+/Users/parkerloomis/Documents/workspace/.metadata/.plugins/org.eclipse.jdt.core
+982909369.index
+3876942519.index
+3114319733.index
+174233330.index
+4000063375.index
+488321796.index
+2011474868.index
+3277898302.index
+2582301336.index
+44756622.index
+4044377977.index
+375827254.index
+2435812747.index
+1356947658.index
+669405276.index
+977413834.index
+1892506953.index
+2206181031.index
+3808506823.index
+1888055213.index
+187316462.index
+4054903892.index
+2739474435.index

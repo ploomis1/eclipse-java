@@ -1,0 +1,9 @@
+package sorting;
+
+public class Insetion {
+
+	public Insetion() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

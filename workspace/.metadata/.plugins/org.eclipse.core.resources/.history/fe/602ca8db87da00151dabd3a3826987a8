@@ -1,0 +1,38 @@
+package assignment3;
+
+public class Book extends LibraryItem {
+	
+	
+	
+	public String getTile() {
+		
+		
+	}
+	public String getAuthor() {
+		
+		
+	}
+	public String getGenre() {
+	
+	
+	}
+	public String getCallNumber() {
+	
+	
+	}
+	
+	
+	/**
+	 * need 
+	 * Book Title
+	 *  Author
+	 *  Genre  
+	 * Call Number
+	 * 
+	 * getters and setters for all these and maybe a constructor?
+	 * 
+	 * 
+	 * 
+	 */
+
+}

@@ -1,0 +1,23 @@
+package conversion;
+
+public class Sms implements ISms {
+
+	@Override
+	public void setInput(String myInput) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public String textToSMS() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String smsToText() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

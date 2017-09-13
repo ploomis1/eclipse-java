@@ -1,0 +1,51 @@
+package main;
+
+public class Tree {
+	private String [][] Tree;
+	Tree hey;
+	Tree next;
+	//Node nodes;
+	int count;
+	int max;
+	int depth;
+	
+	
+	public Tree(int depth){
+		this.depth=depth;
+		this.max=(int) Math.ceil((2^depth)+1);
+		//this.nodes= new Node(depth);
+		this.count=0;
+		Tree= new String [128][128];
+	}
+	public String getString(int tree, int index){
+		return Tree[tree][index];
+		
+	}
+	public void addNode(int tree,String var){
+		Tree[tree][count]=var;
+		
+		 this.count++;
+		
+	}
+	public int getDepth(){
+		return (int) ((Math.log10(2))/(count-1));
+	}
+	private int parent(int pos) {
+		return pos / 2;
+	}
+
+	/*
+	 * gets left child
+	 */
+	private int leftChild(int pos) {
+		return (2 * pos);
+	}
+
+	/*
+	 * gets right child
+	 */
+	private int rightChild(int pos) {
+		return (2 * pos) + 1;
+	}
+
+}

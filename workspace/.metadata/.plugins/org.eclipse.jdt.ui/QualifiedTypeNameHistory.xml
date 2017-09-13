@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.OutputStreamWriter"/>
+<fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="assignment3.ILibrary"/>
+<fullyQualifiedTypeName name="assignment3.Book"/>
+<fullyQualifiedTypeName name="lists.IList"/>
+<fullyQualifiedTypeName name="lists.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+<fullyQualifiedTypeName name="java.io.DataOutputStream"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="lists.Node"/>
+<fullyQualifiedTypeName name="stacks.Stack"/>
+<fullyQualifiedTypeName name="queues.Queues"/>
+<fullyQualifiedTypeName name="stacks.IStack"/>
+<fullyQualifiedTypeName name="sorting.Bubble"/>
+<fullyQualifiedTypeName name="sorting.Insetion"/>
+<fullyQualifiedTypeName name="lists.INode"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="lists.LinkedList"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+<fullyQualifiedTypeName name="sorting.Merge"/>
+<fullyQualifiedTypeName name="sorting.Selection"/>
+<fullyQualifiedTypeName name="node.TreeDataStructure"/>
+<fullyQualifiedTypeName name="cbt.LinkedPQ"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.nio.file.Path"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.io.RandomAccessFile"/>
+<fullyQualifiedTypeName name="java.nio.ByteBuffer"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

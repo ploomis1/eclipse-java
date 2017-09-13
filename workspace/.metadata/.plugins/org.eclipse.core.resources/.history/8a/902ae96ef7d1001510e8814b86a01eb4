@@ -1,0 +1,66 @@
+package edu.wmich.cs1120.spring2016.assignment2.recursion;
+
+import java.util.Scanner;
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		boolean hello = true;
+		/**do{
+			System.out.println("1. Add Node"
+				+ "2.Tree Size"
+				+ "3. Find Node"
+				+ "0. Exit");
+			
+			Scanner kbd =new Scanner(System.in);
+			int ans=kbd.nextInt();
+			if(ans==1){
+				System.out.println("Please enter the Node you wan to add");
+				int node=kbd.nextInt();
+				
+				
+			}
+			if(ans==2){
+				System.out.println("Please enter the Node you want to start at");
+				int node=kbd.nextInt();
+				
+			}
+			if(ans==3){
+				System.out.println("Please enter the node you want to find");
+				int node =kbd.nextInt();
+				
+			}
+			if(ans==0){
+				hello=false;
+	break;
+			}
+
+			
+		}while(hello=true);
+		
+		*/
+			
+		
+		TreeDataStructure root = new TreeDataStructure("A");
+		root.addChild("B", "A"); 
+		root.addChild("C", "A"); 
+		root.addChild("D", "B"); 
+		root.addChild("E", "B"); 
+		root.addChild("F", "C");
+		root.addChild("G", "C"); 
+		root.addChild("H", "D"); 
+		root.addChild("I", "D"); 
+		root.addChild("J", "E"); 
+		root.addChild("K", "E"); 
+		root.addChild("L", "F"); 
+		root.printTree();
+		//System.out.println(root.find("F"));
+		//System.out.println(root.find("P"));
+		System.out.println(root.size());
+		//root.printTree(); System.out.println(root.size());
+		//root.printTree();
+}
+	
+
+}

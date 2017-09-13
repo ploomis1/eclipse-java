@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;node&apos; to &apos;edu.wmich.cs3310.spring17.assignment3.parkerloomis/src&apos;&#x0A;- Original project: &apos;popquiz1&apos;&#x0A;- Destination element: &apos;edu.wmich.cs3310.spring17.assignment3.parkerloomis/src&apos;&#x0A;- Original element: &apos;popquiz1/src/node&apos;&#x0A;- Update references to refactored element" description="Move package" destination="=edu.wmich.cs3310.spring17.assignment3.parkerloomis/src" element1="/src&lt;node" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1489707317971" version="1.0"/>
+</session>
